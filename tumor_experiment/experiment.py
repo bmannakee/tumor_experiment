@@ -6,4 +6,4 @@ class Experiment:
     def __init__(self, experiment_dir ):
         self.out_dir = experiment_dir
         """ TODO: get variants from tumorsim """
-        
+        # Quick change
